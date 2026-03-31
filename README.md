@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Sayyid Salman
 
-<!--
-**sayyidsalman-k/sayyidsalman-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity enthusiast from Calicut, Kerala
+🎓 Currently pursuing Advanced Diploma in Information Security
+🔍 Passionate about Bug Bounty Hunting & Web Security
 
-Here are some ideas to get you started:
+🚀 I’m currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Application Security
+* Vulnerability Assessment & Penetration Testing (VAPT)
+
+🤝 I’m looking to collaborate on:
+
+* Security research projects
+* Bug bounty programs
+
+📫 How to reach me:
+
+* Email: knownpoint186@gmail.comn
+
+⚡ Fun fact:
+I enjoy finding bugs more than using apps 😄
+
+
+
